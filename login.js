@@ -32,7 +32,7 @@ get_login_btn.addEventListener("click",()=>{
 //     localStorage.setItem("Email","");
 //     localStorage.setItem("Password","");
 
-//     window.location.assign("./HP.html");
+//     window.location.assign("./index.html");
 // }
 
 
